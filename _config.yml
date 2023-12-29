@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Miao Peng"
-description              : "Third Year Master in Wuhan Universty"
+title                    : "Miao Peng (彭淼)"
+description              : "Third-year Master in Wuhan Universty"
 repository               : "GKNL/gknl.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "GKNL" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
