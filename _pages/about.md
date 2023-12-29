@@ -44,9 +44,9 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 </div>
 </div> -->
 
-- <code class="language-plaintext highlighter-rouge">ACL 2023 Findings</code> [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/), Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
-- <code class="language-plaintext highlighter-rouge">WWWJ 2023</code> [Neighboring relation enhanced inductive knowledge graph link prediction via meta-learning](https://link.springer.com/article/10.1007/s11280-023-01168-w), Ben Liu, **Miao Peng**, Wenjie Xu, Min Peng
-- <code class="language-plaintext highlighter-rouge">EMNLP 2022 Findings</code> [SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction](https://aclanthology.org/2022.findings-emnlp.307/), **Miao Peng**, Ben Liu, Qianqian Xie, Wenjie Xu, Hua Wang, Min Peng
+- `ACL 2023 Findings` [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/), Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
+- `WWWJ 2023` [Neighboring relation enhanced inductive knowledge graph link prediction via meta-learning](https://link.springer.com/article/10.1007/s11280-023-01168-w), Ben Liu, **Miao Peng**, Wenjie Xu, Min Peng
+- `EMNLP 2022 Findings` [SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction](https://aclanthology.org/2022.findings-emnlp.307/), **Miao Peng**, Ben Liu, Qianqian Xie, Wenjie Xu, Hua Wang, Min Peng
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,8 +57,8 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 - *2017.09 - 2021.06*, Undergraduate, Software Engineering, Software College, Northeastern University, Shenyang. 
  
 # ✏️ Professional Services
-- **Peer Reviewer**: EMNLP | NAACL | TNNLS | CCL
-- **Academic Conferences**: EMNLP 2022 | CCKS 2022 | CCL 2023
+- **Peer Reviewer**: EMNLP, NAACL, TNNLS, CCL
+- **Academic Conferences**: EMNLP 2022, CCKS 2022, CCL 2023
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
