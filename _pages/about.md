@@ -49,8 +49,13 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 - `EMNLP 2022 Findings` [SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction](https://aclanthology.org/2022.findings-emnlp.307/), **Miao Peng**, Ben Liu, Qianqian Xie, Wenjie Xu, Hua Wang, Min Peng
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Tencent Special Scholarship
+- *2022.09* Top 1% (6/2057) in Alibaba Tianchi Competition "Risk Commodities Detection on Large-Scale E-commerce Graphs"
+- *2022-2023* Outstanding Student Scholarship of WHU
+- *2022-2023* Merit student of WHU
+- *2021.06* Outstanding Graduates of NEU
+- *2018-2021* Outstanding Student Scholarship of NEU
+- *2018-2021* Merit student of NEU
 
 # 📖 Educations
 - *2021.09 - Now*, Master, Computer Science and Technology, School of Computer Science, Wuhan University, Wuhan. 
