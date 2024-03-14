@@ -46,7 +46,9 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 </div>
 </div> -->
 
-- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](), **Miao Peng**, Ben Liu, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
+(\* = Equal Contribution)
+
+- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](), **Miao Peng\***, Ben Liu\*, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
 - `WWW 2024` [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](), Ben Liu, **Miao Peng**, Wenjie Xu, Xu Jia, Min Peng
 - `ACL 2023 Findings` [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/), Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
 - `WWWJ 2023` [Neighboring relation enhanced inductive knowledge graph link prediction via meta-learning](https://link.springer.com/article/10.1007/s11280-023-01168-w), Ben Liu, **Miao Peng**, Wenjie Xu, Min Peng
