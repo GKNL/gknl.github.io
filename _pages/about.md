@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a third-year postgraduate student in school of Computer Science at Wuhan University, advised by Prof. [Min Peng](https://cs.whu.edu.cn/info/1019/2893.htm). Before that, I recieved my Bachelor degree from Software College of Northeastern University in 2021.
+I'm currently a first-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jia Li](https://sites.google.com/view/lijia). Before that, I recieved my Master degree from school of Computer Science at Wuhan University in 2024, advised by Prof. [Min Peng](https://cs.whu.edu.cn/info/1019/2893.htm), and I recieved my Bachelor degree from Software College of Northeastern University in 2021.
 
-My research interest lies in **Natural Language Precessing** and **Graph Learning**, including Knowledge Representation Learning, Knowledge Graph Reasoning and Graph Self-supervised Learning. Currently, my work also focus on exploring Knowledge-enhanced Pre-trained/Large Language Models.
+My research interest lies in **Natural Language Precessing** and **Graph Learning**, including Knowledge Representation Learning and Knowledge Graph Reasoning. Currently, my work also focus on exploring Knowledge-enhanced Large Language Models, Anomaly Detection and Knowledge Editing.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -48,13 +48,14 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 
 (\* = Equal Contribution)
 
-- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](), **Miao Peng\***, Ben Liu\*, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
-- `WWW 2024` [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](), Ben Liu, **Miao Peng**, Wenjie Xu, Xu Jia, Min Peng
+- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2024.findings-naacl.75/), **Miao Peng\***, Ben Liu\*, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
+- `WWW 2024` [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/abs/10.1145/3589334.3645592), Ben Liu, **Miao Peng**, Wenjie Xu, Xu Jia, Min Peng
 - `ACL 2023 Findings` [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/), Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
 - `WWWJ 2023` [Neighboring relation enhanced inductive knowledge graph link prediction via meta-learning](https://link.springer.com/article/10.1007/s11280-023-01168-w), Ben Liu, **Miao Peng**, Wenjie Xu, Min Peng
 - `EMNLP 2022 Findings` [SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction](https://aclanthology.org/2022.findings-emnlp.307/), **Miao Peng**, Ben Liu, Qianqian Xie, Wenjie Xu, Hua Wang, Min Peng
 
 # 🎖 Honors and Awards
+- *2024.06* Outstanding Graduates of WHU
 - *2023.10* Tencent Special Scholarship
 - *2022.09* Top 1% (6/2057) in Alibaba Tianchi Competition "Risk Commodities Detection on Large-Scale E-commerce Graphs"
 - *2022-2023* Outstanding Student Scholarship of WHU
@@ -64,8 +65,9 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 - *2018-2021* Merit student of NEU
 
 # 📖 Educations
-- *2021.09 - Now*, Master, Computer Science and Technology, School of Computer Science, Wuhan University, Wuhan. 
-- *2017.09 - 2021.06*, Undergraduate, Software Engineering, Software College, Northeastern University, Shenyang. 
+- *2024.09 - Now*, Ph.D., Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou). 
+- *2021.09 - 2024.06*, Master, Computer Science and Technology, Wuhan University. 
+- *2017.09 - 2021.06*, Undergraduate, Software Engineering, Northeastern University. 
  
 # ✏️ Professional Services
 - **Peer Reviewer**: EMNLP, NAACL, TNNLS, CCL
