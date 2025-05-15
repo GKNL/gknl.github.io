@@ -19,12 +19,14 @@ redirect_from:
 
 I'm currently a first-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jia Li](https://sites.google.com/view/lijia). Before that, I recieved my Master degree from school of Computer Science at Wuhan University in 2024, advised by Prof. [Min Peng](https://cs.whu.edu.cn/info/1019/2893.htm), and I recieved my Bachelor degree from Software College of Northeastern University in 2021.
 
-My research interest lies in **Natural Language Precessing** and **Graph Learning**, including Knowledge Representation Learning and Knowledge Graph Reasoning. Currently, my work also focus on exploring Knowledge-enhanced Large Language Models, Anomaly Detection and Knowledge Editing.
+My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currently, my work also focus on exploring Knowledge-intensive LLMs and Knowledge Editing.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉🎉 Three papers are accepted to ACL 2025 (1 Main, 2 Findings).
+- *2025.05*: &nbsp;🎉 One paper is accepted to KDD 2025 (Research Track).
 - *2024.03*: &nbsp;🎉 One paper is accepted to NAACL 2024 Findings.
 - *2024.01*: &nbsp;🎉 One paper is accepted to WWW 2024.
 - *2023.05*: &nbsp;🎉 One paper is accepted to ACL 2023 Findings.
@@ -47,7 +49,10 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 </div> -->
 
 (\* = Equal Contribution)
-
+- `ACL 2025 Main` [How does Misinformation Affect Large Language Model Behaviors and Preferences?](), **Miao Peng\***, Nuo Chen\*, Jianheng Tang, Jia Li
+- `ACL 2025 Findings` [RelEdit: Evaluating Conceptual Knowledge Editing in Language Models via Relational Reasoning](), Yifan Niu\*, **Miao Peng\***, Nuo Chen, Yatao Bian, Tingyang Xu, Jia Li
+- `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework](), Zihao Jiang, Ben Liu, **Miao Peng**, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
+- `KDD 2025` [Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners](https://arxiv.org/abs/2503.00845), **Miao Peng\***, Nuo Chen\*, Zongrui Suo, Jia Li
 - `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2024.findings-naacl.75/), **Miao Peng\***, Ben Liu\*, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
 - `WWW 2024` [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/abs/10.1145/3589334.3645592), Ben Liu, **Miao Peng**, Wenjie Xu, Xu Jia, Min Peng
 - `ACL 2023 Findings` [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/), Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
@@ -70,8 +75,8 @@ My research interest lies in **Natural Language Precessing** and **Graph Learnin
 - *2017.09 - 2021.06*, Undergraduate, Software Engineering, Northeastern University. 
  
 # ✏️ Professional Services
-- **Peer Reviewer**: EMNLP, NAACL, TNNLS, CCL
-- **Academic Conferences**: EMNLP 2022, CCKS 2022, CCL 2023
+- **Peer Reviewer**: EMNLP, NAACL, TNNLS, CCL, ACL
+- **Academic Conferences**: EMNLP 2022, CCKS 2022, CCL 2023, NAACL 2024
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
