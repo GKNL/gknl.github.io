@@ -49,7 +49,7 @@ My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currentl
 </div> -->
 
 (\* = Equal Contribution)
-- `ACL 2025 Main` [How does Misinformation Affect Large Language Model Behaviors and Preferences?](), **Miao Peng\***, Nuo Chen\*, Jianheng Tang, Jia Li
+- `ACL 2025 Main` [How does Misinformation Affect Large Language Model Behaviors and Preferences?](), **Miao Peng**, Nuo Chen, Jianheng Tang, Jia Li
 - `ACL 2025 Findings` [RelEdit: Evaluating Conceptual Knowledge Editing in Language Models via Relational Reasoning](), Yifan Niu\*, **Miao Peng\***, Nuo Chen, Yatao Bian, Tingyang Xu, Jia Li
 - `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework](), Zihao Jiang, Ben Liu, **Miao Peng**, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
 - `KDD 2025` [Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners](https://arxiv.org/abs/2503.00845), **Miao Peng\***, Nuo Chen\*, Zongrui Suo, Jia Li
