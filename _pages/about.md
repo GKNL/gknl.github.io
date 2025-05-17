@@ -49,15 +49,24 @@ My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currentl
 </div> -->
 
 (\* = Equal Contribution)
-- `ACL 2025 Main` [How does Misinformation Affect Large Language Model Behaviors and Preferences?](), **Miao Peng**, Nuo Chen, Jianheng Tang, Jia Li
-- `ACL 2025 Findings` [RelEdit: Evaluating Conceptual Knowledge Editing in Language Models via Relational Reasoning](), Yifan Niu\*, **Miao Peng\***, Nuo Chen, Yatao Bian, Tingyang Xu, Jia Li
-- `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework](), Zihao Jiang, Ben Liu, **Miao Peng**, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
-- `KDD 2025` [Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners](https://arxiv.org/abs/2503.00845), **Miao Peng\***, Nuo Chen\*, Zongrui Suo, Jia Li
-- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2024.findings-naacl.75/), **Miao Peng\***, Ben Liu\*, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
-- `WWW 2024` [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/abs/10.1145/3589334.3645592), Ben Liu, **Miao Peng**, Wenjie Xu, Xu Jia, Min Peng
-- `ACL 2023 Findings` [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/), Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
-- `WWWJ 2023` [Neighboring relation enhanced inductive knowledge graph link prediction via meta-learning](https://link.springer.com/article/10.1007/s11280-023-01168-w), Ben Liu, **Miao Peng**, Wenjie Xu, Min Peng
-- `EMNLP 2022 Findings` [SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction](https://aclanthology.org/2022.findings-emnlp.307/), **Miao Peng**, Ben Liu, Qianqian Xie, Wenjie Xu, Hua Wang, Min Peng
+- `KDD 2025` [Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners](https://arxiv.org/abs/2503.00845) <br>
+  **Miao Peng\***, Nuo Chen\*, Zongrui Suo, Jia Li
+- `ACL 2025 Main` [How does Misinformation Affect Large Language Model Behaviors and Preferences?]() <br>
+  **Miao Peng**, Nuo Chen, Jianheng Tang, Jia Li <br>
+- `ACL 2025 Findings` [RelEdit: Evaluating Conceptual Knowledge Editing in Language Models via Relational Reasoning]() <br>
+  Yifan Niu\*, **Miao Peng\***, Nuo Chen, Yatao Bian, Tingyang Xu, Jia Li
+- `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework]() <br>
+  Zihao Jiang, Ben Liu, **Miao Peng**, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
+- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2024.findings-naacl.75/) <br>
+  **Miao Peng\***, Ben Liu\*, Wenjie Xu, Zihao Jiang, Jiahui Zhu, Min Peng
+- `WWW 2024` [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/abs/10.1145/3589334.3645592) <br>
+  Ben Liu, **Miao Peng**, Wenjie Xu, Xu Jia, Min Peng
+- `ACL 2023 Findings` [Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](https://aclanthology.org/2023.findings-acl.493/) <br>
+  Wenjie Xu, Ben Liu, **Miao Peng**, Xu Jia, Min Peng
+- `WWWJ 2023` [Neighboring relation enhanced inductive knowledge graph link prediction via meta-learning](https://link.springer.com/article/10.1007/s11280-023-01168-w) <br>
+  Ben Liu, **Miao Peng**, Wenjie Xu, Min Peng
+- `EMNLP 2022 Findings` [SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction](https://aclanthology.org/2022.findings-emnlp.307/) <br>
+  **Miao Peng**, Ben Liu, Qianqian Xie, Wenjie Xu, Hua Wang, Min Peng
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduates of WHU
