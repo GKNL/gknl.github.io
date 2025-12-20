@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a first-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jia Li](https://sites.google.com/view/lijia). Before that, I recieved my Master degree from school of Computer Science at Wuhan University in 2024, advised by Prof. [Min Peng](https://cs.whu.edu.cn/info/1019/2893.htm), and I recieved my Bachelor degree from Software College of Northeastern University in 2021.
+I'm currently a second-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jia Li](https://sites.google.com/view/lijia). Before that, I recieved my Master degree from school of Computer Science at Wuhan University in 2024, advised by Prof. [Min Peng](https://cs.whu.edu.cn/info/1019/2893.htm), and I recieved my Bachelor degree from Software College of Northeastern University in 2021.
 
 My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currently, my work also focus on exploring Knowledge-intensive LLMs and Knowledge Editing.
 
