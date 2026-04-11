@@ -19,12 +19,13 @@ redirect_from:
 
 I'm currently a second-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jia Li](https://sites.google.com/view/lijia). Before that, I recieved my Master degree from school of Computer Science at Wuhan University in 2024, advised by Prof. [Min Peng](https://cs.whu.edu.cn/info/1019/2893.htm), and I recieved my Bachelor degree from Software College of Northeastern University in 2021.
 
-My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currently, my work focus on data synthesis and reinforcement learning of long-context LLMs.
+Currently, my work focus on **LLM Pre-training & Reasoning**, **Long-context Modeling** and **Knowledge Graph**.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 One papers is accepted to ACL 2026 Findings.
 - *2025.12*: &nbsp;🚀 We released the **QwenLong-L1.5 Technical Report and model weights**, check it [here](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1.5-30B-A3B).
 - *2025.05*: &nbsp;🎉🎉🎉 Three papers are accepted to ACL 2025 (1 Main, 2 Findings).
 - *2025.05*: &nbsp;🎉 One paper is accepted to KDD 2025 (Research Track).
@@ -50,13 +51,15 @@ My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currentl
 </div> -->
 
 (\* = Equal Contribution)
+- `ACL 2026 Findings` [Incentivizing In-depth Reasoning over Long Contexts with Process Advantage Shaping](https://arxiv.org/abs/2601.12465) <br>
+  **Miao Peng**, Weizhou Shen, Nuo Chen, Chenliang Li, Ming Yan, Jia Li <br>
 - `Technical Report` [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967) <br>
   Weizhou Shen\*, Ziyi Yang\*, Chenliang Li\*, Zhiyuan Lu, **Miao Peng**, Huashan Sun, Yingcheng Shi, Shengyi Liao, Shaopeng Lai, Bo Zhang, Dayiheng Liu, Fei Huang, Jingren Zhou, Ming Yan
 - `KDD 2025` [Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners](https://arxiv.org/abs/2503.00845) <br>
   **Miao Peng\***, Nuo Chen\*, Zongrui Suo, Jia Li
 - `ACL 2025 Main` [How does Misinformation Affect Large Language Model Behaviors and Preferences?](https://arxiv.org/abs/2505.21608) <br>
   **Miao Peng**, Nuo Chen, Jianheng Tang, Jia Li <br>
-- `ACL 2025 Findings` [RelEdit: Evaluating Conceptual Knowledge Editing in Language Models via Relational Reasoning]() <br>
+- `ACL 2025 Findings` [RelEdit: Evaluating Conceptual Knowledge Editing in Language Models via Relational Reasoning](https://aclanthology.org/2025.findings-acl.533) <br>
   Yifan Niu\*, **Miao Peng\***, Nuo Chen, Yatao Bian, Tingyang Xu, Jia Li
 - `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework](https://arxiv.org/abs/2505.15245) <br>
   Zihao Jiang, Ben Liu, **Miao Peng**, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
@@ -87,12 +90,13 @@ My research interest lies in **LLM Reasoning** and **Knowledge Graph**. Currentl
 - *2017.09 - 2021.06*, Undergraduate, Software Engineering, Northeastern University. 
  
 # ✏️ Professional Services
-- **Peer Reviewer**: EMNLP, NAACL, TNNLS, CCL, ACL
-- **Academic Conferences**: EMNLP 2022, CCKS 2022, CCL 2023, NAACL 2024
+- **Peer Reviewer**: ARR Rolling Review, TNNLS, CCL
+- **Academic Conferences**: EMNLP 2022, CCKS 2022, CCL 2023, NAACL 2024, ACL 2025, KDD 2025
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025 - Now*, Research Intern of Tongyi Lab, Alibaba Group.
+- *2025.07 - 2026.01*, Research Intern of Tongyi Lab, Alibaba Group.
+- *2026.01 - Now*, Research Intern of Hunyuan Foundation Team, Tencent.
