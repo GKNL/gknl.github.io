@@ -25,7 +25,7 @@ Currently, my work focus on **LLM Pre-training & Reasoning**, **Long-context Mod
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 Supported by CIE-Tencent Doctoral Research Incentive Project (混元学者/中国电子学会—腾讯博士生科研激励计划).
+- *2026.07*: &nbsp;🚀🚀🚀 Supported by CIE-Tencent Doctoral Research Incentive Project (<span style="color: blue;"><strong>混元学者/中国电子学会—腾讯博士生科研激励计划</strong></span>).
 - *2026.04*: &nbsp;🎉 One paper is accepted to ACL 2026 Findings.
 - *2025.12*: &nbsp;🚀 We released the **QwenLong-L1.5 Technical Report and model weights**, check it [here](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1.5-30B-A3B).
 - *2025.05*: &nbsp;🎉🎉🎉 Three papers are accepted to ACL 2025 (1 Main, 2 Findings).
